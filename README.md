@@ -3,6 +3,7 @@
 ### Front-end Developer 
 Education: 華夏科技大學(Hwa Hsia University of Technology)/ 電子工程系 (Department of Electronic Engineering)
 Location: Taipei City 
+
 E-mail: t0921988961@gmail.com 
 
 * * *
