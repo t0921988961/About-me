@@ -1,7 +1,8 @@
 # 鄭宏璋(Cheng Hung-Chang) / Luke 
 
 ### Front-end Developer 
-Education: 華夏科技大學(Hwa Hsia University of Technology)/ 電子工程系 (Department of Electronic Engineering)
+Education: 華夏科技大學(Hwa Hsia University of Technology)<br>
+Department: 電子工程系 (Department of Electronic Engineering)<br>
 Location: Taipei City         <br>
 E-mail: t0921988961@gmail.com 
 
