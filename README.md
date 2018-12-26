@@ -12,11 +12,13 @@ E-mail: t0921988961@gmail.com <br>
 # 專業技能
 ## 前端
 + 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；不依賴 Framework 進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
-+ Sass 規劃響應式網頁版型 
-+ 善用 jQuery Plugin 整合第三方插件動畫效果
++ 使用 SCSS 管理網頁版型
++ 了解 Javascript 基本語法 與 CSS3 呈現網頁動態效果。
++ jQuery Plugin 整合第三方插件動畫效果
 + Vue.js & Nuxt.js 框架使用
-+ Ajax/JSON 設計 SPA 架構 
-+ 具有介接 FB Login、Google Service API 經驗 ()
++ Ajax/JSON 設計SPA架構 
++ 具有介接 FB Login API經驗
+
 ## 其他
 
 * * *
