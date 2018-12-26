@@ -20,8 +20,8 @@ E-mail: t0921988961@gmail.com <br>
 + 具有介接 FB Login API經驗
 
 ## 其他
-+ Photoshop(作品連結) 及 Illustrator (作品連結)
-+ After Effect(作品連結) 及 Premiere [(作品連結)](https://youtu.be/HuH0PMd8ndw)
++ Photoshop(作品連結) 及 Illustrator [自己拍攝並使用 PS修圖 ＋ AI設計排版 (作品連結)](https://drive.google.com/file/d/1zztrjr6mXwQvXtYtYFegHFfXbqVS5vEx/view?usp=sharing)
++ After Effect(作品連結) 及 Premiere [拍攝＋剪輯(作品連結)](https://youtu.be/HuH0PMd8ndw)
 
 * * *
 
