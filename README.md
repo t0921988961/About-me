@@ -18,7 +18,7 @@ E-mail: t0921988961@gmail.com <br>
 + Vue.js & Nuxt.js 框架使用
 + 利用 Ajax 串接API撈取遠端JSON資料,並顯示在網頁上
 + 了解 Git / Github / Gitlab 與基本指令運用 (GUI:Source Tree)
-+ 具有介接 FB Login API/SDK 經驗 [Facebook串接](https://letsfun-demo.herokuapp.com/)
++ 具有介接 FB Login API/SDK 經驗 [負責Facebook串接](https://letsfun-demo.herokuapp.com/)
 
 ## SEO
 + Google Aynalytics 使用
@@ -31,13 +31,17 @@ E-mail: t0921988961@gmail.com <br>
 * * *
 
 # 工作經歷
++ 丹提咖啡/值班經理(4年)：大學打工。
++ 澳洲打工/羊皮部(1年)：處理羊皮。
++ 佳因企業/網頁設計師(3年)：公司網站維護&修改成手機版/GA分析/關鍵字廣告/影片拍攝及剪輯/產品拍攝及修圖/DM,海報,名片設計。、
++ 巧禾數位/前端工程師：官方網站建置及維護/與後端合作串接資料。
 
 * * *
 
-# Front-End Work
+# 作品/Front-End Work
 #### 1.保德信投信：
 [網站連結](<https://www.pru.com.tw/act/2018TaiwanRSP/?utm_source=google&utm_medium=cpc&utm_campaign=2018campaignsite&utm_term=word1&gclid=Cj0KCQiApILhBRD1ARIsAOXWTzvNpNtXgL3AlAp-gRQ63MGTIYYOjtBRD8NWOn0eCg79us_c5qsjBqEaAqVnEALw_wcB>)br
-<br>
+
 #### 2.富邦投信：
 [網站連結](http://test.kahap.com/fubon_AI/)
 
