@@ -1,7 +1,7 @@
 # 鄭宏璋 (Cheng Hung-Chang) / Luke 
 
 ### Front-end Developer 
-Education: 華夏科技大學(Hwa Hsia University of Technology)<br>
+Education: 華夏科技大學 (Hwa Hsia University of Technology)<br>
 Department: 電子工程系 (Department of Electronic Engineering)<br>
 Location: Taipei City         <br>
 E-mail: t0921988961@gmail.com <br>
@@ -21,7 +21,7 @@ E-mail: t0921988961@gmail.com <br>
 + 具有介接 FB Login API/SDK 經驗 [負責Facebook串接](https://letsfun-demo.herokuapp.com/)
 
 ## SEO
-+ Google Aynalytics 使用
++ Google Analytics 使用
 + 了解 Google 關鍵字廣告
 
 ## Adobe軟體
@@ -42,7 +42,7 @@ E-mail: t0921988961@gmail.com <br>
 + DM,海報,名片設計
 #### 巧禾數位/前端工程師 (2018/8 ~ 現在)。
 + 活動網站建置及維護
-+ 使用框架建置 Vue.js / Nuxt.js
++ 使用框架 Vue.js / Nuxt.js
 + 與後端合作串接資料
 
 * * *
