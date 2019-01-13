@@ -45,9 +45,12 @@ E-mail: t0921988961@gmail.com <br>
 * * *
 
 # 作品/Front-End Work
-#### 1.保德信投信：
+#### 1.保德信投信_選台股,好微笑：
 [網站連結](<https://goo.gl/bsvwzi>)
 <br>
-#### 2.富邦投信：
+#### 2.富邦投信_AI大未來：
+[網站連結](https://goo.gl/sTuypn)
+<br>
+#### 3.台新Richart_口袋變福袋：
 [網站連結](https://goo.gl/sTuypn)
 
