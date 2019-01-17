@@ -55,5 +55,5 @@ E-mail: t0921988961@gmail.com <br>
 [網站連結](https://goo.gl/sTuypn)
 <br>
 #### 3.台新Richart_口袋變福袋：
-[網站連結](https://goo.gl/sTuypn)
+[網站連結](http://test.kahap.com/Richart_pocket/)
 
