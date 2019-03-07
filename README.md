@@ -18,7 +18,7 @@ E-mail: t0921988961@gmail.com <br>
 + Vue.js & Nuxt.js 框架使用
 + 利用 Ajax / Axios 串接API撈取遠端JSON資料,並顯示在網頁上
 + 了解 Git / Github / Gitlab 與基本指令運用 (GUI:Source Tree)
-+ 具有介接 FB Login API/SDK 經驗 [負責Facebook串接](https://letsfun-demo.herokuapp.com/)
++ 具有介接 FB Login API/SDK & line login 經驗 
 
 ## SEO
 + Google Analytics 使用
