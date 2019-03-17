@@ -70,7 +70,9 @@
 SCSS + flex 製作 Tab 切換效果 + 播放影片動畫
 [網站連結](https://goo.gl/bsvwzi)
 <br>
-![image](https://raw.githubusercontent.com/t0921988961/About_Me/master/img/PGIM.png)
+
+<!-- ![image](https://raw.githubusercontent.com/t0921988961/About_Me/master/img/PGIM.png) -->
+<img width="450" height="auto" src="https://raw.githubusercontent.com/t0921988961/About_Me/master/img/PGIM.png"/>
 
 #### 2.富邦投信\_AI 大未來：
 
