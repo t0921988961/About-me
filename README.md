@@ -67,25 +67,38 @@
 
 #### 1.保德信投信\_選台股,好微笑：
 
+SCSS + flex 製作 Tab 切換效果 + 播放影片動畫
 [網站連結](https://goo.gl/bsvwzi)
 <br>
+![image](https://raw.githubusercontent.com/t0921988961/About_Me/master/img/PGIM.png)
 
 #### 2.富邦投信\_AI 大未來：
 
+SCSS + position 定位(上下移動的 4 個 icon)
 [網站連結](https://goo.gl/sTuypn)
 <br>
+![image](https://raw.githubusercontent.com/t0921988961/About_Me/master/img/Fubon_AI.png)
 
 #### 3.台新 Richart\_口袋變福袋：
 
+SCSS + 利用 css 製作連續動畫 ＋ Javascript 製作 loading 畫面
 [網站連結](http://test.kahap.com/Richart_pocket/)
 <br>
+![image](https://raw.githubusercontent.com/t0921988961/About_Me/master/img/Richart.png)
 
 #### 4.路博邁|金豬報喜 刮刮樂 (過年活動)
 
+串接 Line 登入 ＋ 串接後台 API + canvas 刮刮樂效果
 [網站連結](http://test.kahap.com/scratch/index.html)
 <br>
+![image](https://raw.githubusercontent.com/t0921988961/About_Me/master/img/scratch.png)
 
 #### 5.股感網站 (切版)
 
-[網站連結](http://test.kahap.com/stockFeel_officail/TEJ/)  
+SCSS + Tab 切換效果＋ swipe slide 套件
+[網站連結](http://test.kahap.com/stockFeel_officail/TEJ/)
+![image](https://raw.githubusercontent.com/t0921988961/About_Me/master/img/tab.png)
+
+SCSS + Javascript 依照輸入的年齡切換圖片,並進入下一步
 [網站連結](http://test.kahap.com/stockFeel_officail/Trading/)
+![image](https://raw.githubusercontent.com/t0921988961/About_Me/master/img/year.png)
