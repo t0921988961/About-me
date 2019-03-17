@@ -2,7 +2,9 @@
 
 ### Front-end Developer
 
-![image](http://github.com/t0921988961/About_Me/raw/master/img/me.png)
+![image](https://raw.githubusercontent.com/t0921988961/About_Me/master/img/me.png)
+
+<!-- ![image](http://github.com/t0921988961/About_Me/raw/master/img/me.png) -->
 
 學 歷: 華夏科技大學 (Hwa Hsia University of Technology)<br>
 科 系: 電子工程系 (Department of Electronic Engineering)<br>
