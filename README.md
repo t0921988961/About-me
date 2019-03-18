@@ -25,7 +25,7 @@
 - jQuery Plugin 整合第三方插件動畫效果
 - Vue.js & Nuxt.js 框架使用
 - 利用 Ajax / Axios 串接 API 撈取遠端 JSON 資料,並顯示在網頁上
-- 了解 Git / Github / Gitlab 與基本指令運用 (GUI:Source Tree)
+- 了解 Git / Github / Gitlab 與基本指令運用 (GUI:Sourcetree)
 - 具有介接 FB Login API/SDK & line login 經驗
 
 ## SEO
